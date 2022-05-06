@@ -1,0 +1,5615 @@
+Name,Provider Discounts,Radius,Pricing,Is Live,Base Price,latitude,longitude,Weekly,TenDay,BiWeekly,partners
+"AUSTIN, TX","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5320.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3500.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $223.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $199.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $255.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $128.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $190.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",53.2,30.2671344,-97.8131019,42.56,45.22,47.88,31.122000000000003
+"CHICAGO, IL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",50,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.65
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $259.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $299.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $149.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $223.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,41.8780923,-87.6998388,44.512,47.294,50.076,32.5494
+"BOSTON, MA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",60,"
+
+
+-> Base Price:
+6683.0
+
+-> Flower Bed Pricing:
+0.7
+
+-> Edging Pricing:
+0.7
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $280.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $320.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $160.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $240.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $90.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $180.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",66.83,42.3600612,-71.1289207,53.464,56.805499999999995,60.147,39.09555
+"DENVER, CO ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $290.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $190.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,39.7392148,-105.0602917,44.512,47.294,50.076,32.5494
+"DALLAS, TX","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5806.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $125.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.06,32.7766447,-96.8670289,46.44800000000001,49.351,52.254000000000005,33.96510000000001
+"SYRACUSE, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",55,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3500.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $238.14 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $136.08 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $204.12 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $272.16 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,43.0481007,-76.217465,40.64,43.18,45.72,29.718
+"ROCHESTER, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3500.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,43.1861601,-77.6864388,40.64,43.18,45.72,29.718
+"ALBANY, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,42.652558,-73.8262723,44.512,47.294,50.076,32.5494
+"RALEIGH, NC","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5322.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",53.22,35.7795694,-78.7082196,42.576,45.236999999999995,47.898,31.133700000000005
+"CHARLOTTE, NC","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",35,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,35.2270667,-80.9131676,44.512,47.294,50.076,32.5494
+"COLUMBUS, OH","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5589.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.89,39.9826142,-83.2710139,44.712,47.5065,50.301,32.69565
+"CLEVELAND, OH","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",55,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.55
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,41.4992988,-81.7644011,40.64,43.18,45.72,29.718
+"CINCINNATI, OH","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,39.1030972,-84.5820603,40.64,43.18,45.72,29.718
+"BUFFALO, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,42.8864255,-78.9484095,40.64,43.18,45.72,29.718
+"MILWAUKEE, WI","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,43.0388811,-87.9765142,40.64,43.18,45.72,29.718
+"INDIANAPOLIS, IN","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.6
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $240.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $290.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $190.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $140.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,39.768382,-86.2281087,40.64,43.18,45.72,29.718
+"PITTSBURGH, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $240.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $290.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $190.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $140.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,40.4406037,-80.0659271,44.512,47.294,50.076,32.5494
+"NASHVILLE, TN","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,36.1626434,-86.8516425,44.512,47.294,50.076,32.5494
+"HARTFORD, CT","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+6000.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",60.0,41.760567,-72.675132,48.0,51.0,54.0,35.1
+"DETROIT, MI","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5201.0
+
+-> Flower Bed Pricing:
+0.6
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",52.01,42.3314057,-83.1157944,41.608000000000004,44.208499999999994,46.809,30.42585
+"GRAND RAPIDS, MI","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5201.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",52.01,42.9633385,-85.7381269,41.608000000000004,44.208499999999994,46.809,30.42585
+"ATLANTA, GA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",50,"
+
+
+-> Base Price:
+5806.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.06,33.7489756,-84.4580233,46.44800000000001,49.351,52.254000000000005,33.96510000000001
+"MINNEAPOLIS, MN","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5806.0
+
+-> Flower Bed Pricing:
+0.55
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.06,44.9777316,-93.3350513,46.44800000000001,49.351,52.254000000000005,33.96510000000001
+"JACKSONVILLE, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3500.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,30.3321651,-81.7256921,40.64,43.18,45.72,29.718
+"ORLANDO, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,28.5383175,-81.4492776,40.64,43.18,45.72,29.718
+"TAMPA, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5201.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",52.01,27.9505573,-82.5272187,41.608000000000004,44.208499999999994,46.809,30.42585
+"RANDOLPH, NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,40.841812,-74.53729,50.312000000000005,53.4565,56.601,36.79065
+"CLIFTON, NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",10,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,40.880241,-74.268128,50.312000000000005,53.4565,56.601,36.79065
+"RAMSEY, NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",10,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,40.998711,-74.184243,50.312000000000005,53.4565,56.601,36.79065
+"PARAMUS, NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $325.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,40.94666,-74.056639,50.312000000000005,53.4565,56.601,36.79065
+"ABINGTON, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",10,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.121038,-75.108924,40.64,43.18,45.72,29.718
+"PLYMOUTH MEETING, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",10,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.081968,-75.24157,40.64,43.18,45.72,29.718
+"UPPER DARBY, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",10,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,39.949446,-75.353493,40.64,43.18,45.72,29.718
+"BERWYN, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",6,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.045298,-75.418307,40.64,43.18,45.72,29.718
+"BLUE BELL, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",8,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.145193,-75.251071,40.64,43.18,45.72,29.718
+"KING OF PRUSSIA, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",5,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.081248,-75.369318,40.64,43.18,45.72,29.718
+"LANSDALE, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",8,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.241226,-75.272357,40.64,43.18,45.72,29.718
+"CRANBERRY TWP, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.685502,-80.10599,40.64,43.18,45.72,29.718
+"DURHAM, NC","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5320.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",53.2,36.0017424,-79.0249961,42.56,45.22,47.88,31.122000000000003
+"LOUISVILLE, KY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+6774.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",67.74,38.1884721,-85.9569564,54.192,57.57899999999999,60.965999999999994,39.6279
+DMV,"
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",36,"
+
+
+-> Base Price:
+6288.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $325.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.88,39.036948,-76.921025,50.304,53.448,56.592000000000006,36.784800000000004
+"SOMMERVILLE, NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $325.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,40.5688967,-74.6238366,50.312000000000005,53.4565,56.601,36.79065
+"MIAMI, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5443.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",54.43,25.7823907,-80.2994993,43.544000000000004,46.265499999999996,48.987,31.84155
+"FORT LAUDERDALE, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5432.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",54.32,26.1410956,-80.2156079,43.456,46.172,48.888,31.7772
+"DES MOINES, IA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+6000.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",60.0,41.592518,-93.620188,48.0,51.0,54.0,35.1
+"Cherry Hill, Camden NJ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+6289.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+5000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",62.89,39.8890516,-75.0586974,50.312000000000005,53.4565,56.601,36.79065
+"Portland, OR","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",18,"
+
+
+-> Base Price:
+5500.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.0,45.495125,-122.675023,44.0,46.75,49.5,32.175000000000004
+Cape Canaveral,"
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,28.2831991,-80.7210273,40.64,43.18,45.72,29.718
+"Binghamton, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,42.09774,-75.91774,40.64,43.18,45.72,29.718
+"Oswego, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,43.457384,-76.506121,40.64,43.18,45.72,29.718
+"Utica, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,43.104201,-75.242346,40.64,43.18,45.72,29.718
+"Ithaca, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,42.44041,-76.509054,40.64,43.18,45.72,29.718
+"Salt Lake City, UT","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",35,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,40.761821,-111.886933,40.64,43.18,45.72,29.718
+"Erie, PA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,42.129823,-80.084402,40.64,43.18,45.72,29.718
+"Green Bay, WI (Appleton Center)","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5807.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.07,44.249662,-88.400965,46.456,49.3595,52.263,33.97095
+"Burlington, VT","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,44.475972,-73.216265,44.512,47.294,50.076,32.5494
+"Portland, ME","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,43.684255,-70.291075,44.512,47.294,50.076,32.5494
+"CHARLESTON, SC","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+4900.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",49.0,32.889682,-80.016263,39.2,41.65,44.1,28.665000000000003
+"Madison, WI","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,43.072901,-89.396539,44.512,47.294,50.076,32.5494
+"Fargo, ND","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5564.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.64,46.847838,-96.842461,44.512,47.294,50.076,32.5494
+"Akron, OH","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,41.080645,-81.518605,40.64,43.18,45.72,29.718
+"Richmond, VA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5684.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $150.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $300.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $250.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",56.84,37.526879,-77.445306,45.47200000000001,48.314,51.156000000000006,33.251400000000004
+"Houston, TX","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5807.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.07,29.775537,-95.365596,46.456,49.3595,52.263,33.97095
+"San Antonio, TX","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5320.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",53.2,29.427737,-98.496371,42.56,45.22,47.88,31.122000000000003
+"Memphis, TN","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5079.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.79,35.13281,-90.054071,40.632000000000005,43.171499999999995,45.711,29.71215
+Kansas City,"
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,39.12515,-94.593606,40.64,43.18,45.72,29.718
+"Birmingham, AL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,33.512841,-86.808945,40.64,43.18,45.72,29.718
+"St. Louis, MO","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",40,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Gutter Cleaning (Mid-Size 2 Story Home)
+: $225.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Gutter Cleaning (Large 2 Story Home)
+: $275.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Gutter Cleaning (Medium 1 Story Home)
+: $175.0 (leavz)
+
+-> Gutter Cleaning (Small 1 Story Home)
+: $135.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,38.636432,-90.187533,40.64,43.18,45.72,29.718
+"NEW ORLEANS, LA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",25,"
+
+
+-> Base Price:
+5500.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.0,29.968924,-90.085808,44.0,46.75,49.5,32.175000000000004
+"Toledo, OH","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5080.0
+
+-> Flower Bed Pricing:
+0.55
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $79.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $39.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",50.8,41.649287,-83.563277,40.64,43.18,45.72,29.718
+"Long Island, NY","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+8000.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+6000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Blowout (Large)
+: $80.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $40.0 (mowz)
+
+-> Flower Bed Leaf Removal (Average)
+: $100.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $50.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $250.0 (leavz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",80.0,40.832932,-72.911967,64.0,68.0,72.0,46.800000000000004
+"Baton Rouge, LA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",30,"
+
+
+-> Base Price:
+5500.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+3000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $800.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.0,30.455905,-91.178414,44.0,46.75,49.5,32.175000000000004
+"Phoenix, AZ","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",35,"
+
+
+-> Base Price:
+5806.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",58.06,33.483766,-112.043207,46.44800000000001,49.351,52.254000000000005,33.96510000000001
+"Spokane, WA","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5600.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+4000.0
+
+-> Dog Poop Pricing:
+0.5
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Blowout (Small)
+: $30.0 (mowz)
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $60.0 (leavz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",56.0,47.660264,-117.234581,44.800000000000004,47.6,50.4,32.76
+"Pensacola, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",15,"
+
+
+-> Base Price:
+5500.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+1.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Small)
+: $150.0 (leavz)
+
+-> Flower Bed Leaf Removal (Average)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $300.0 (leavz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",55.0,30.462064,-87.282435,44.0,46.75,49.5,32.175000000000004
+"Ft Meyers, FL","
+With Insurance: 65.0%
+
+
+Without Insurance: 65.0%
+",20,"
+
+
+-> Base Price:
+5400.0
+
+-> Flower Bed Pricing:
+0.5
+
+-> Edging Pricing:
+0.5
+
+-> Grass Length Pricing:
+[""0"", ""50"", ""125"", ""250""]
+
+-> Lawn Size Pricing:
+1.25
+
+-> Shrub Trimming Pricing:
+6000.0
+
+-> Dog Poop Pricing:
+1.0
+
+
+
+Addon Pricing:
+
+
+-> Flower Bed Leaf Removal (Average)
+: $80.0 (leavz)
+
+-> Flower Bed Leaf Removal (Large)
+: $200.0 (leavz)
+
+-> Flower Bed Leaf Removal (Small)
+: $40.0 (leavz)
+
+-> Flower Bed Blowout (Large)
+: $60.0 (mowz)
+
+-> Flower Bed Blowout (Small)
+: $20.0 (mowz)
+
+-> Flower Bed Weeding (Large)
+: $120.0 (mowz)
+
+-> Flower Bed Weeding (Small)
+: $60.0 (mowz)
+
+","
+Is Live: true
+
+
+Message:
+
+
+From Date: 
+
+
+To Date: 
+",54.0,26.622543,-81.849533,43.2,45.9,48.6,31.590000000000003
